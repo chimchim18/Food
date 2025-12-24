@@ -1,11 +1,10 @@
 # Task 8: Food Classification (5 Types)
 
-**Student:** Ray  
-**ID:** [Your Student ID]  
-**Seed:** [Your Assigned Seed]
+**Student:** Chimnaz Abdullayeva  
+**Seed:** 20240105
 
 ## Presentation
-[View Presentation Slides](https://drive.google.com/your-link-here)
+[View Presentation Slides]((https://docs.google.com/presentation/d/14KEtJAST1C9KXeBoEFrRTAEn-AuK70C2/edit?usp=sharing&ouid=103234191843930232694&rtpof=true&sd=true))
 
 ## Dataset
 - **Name:** Food-101  
